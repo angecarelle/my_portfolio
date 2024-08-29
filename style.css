@@ -214,3 +214,8 @@ justify-content: center;
   justify-content: flex-end;
   
 }
+@media (max-width: 600px) {
+  .box {
+      flex: 1 1 100%;
+  }
+}
